@@ -1,0 +1,63 @@
+#######################################
+# Syntax Coloring Map For MAX7219Driver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAX7219Driver	KEYWORD1
+Registers	KEYWORD1
+ScanLimit	KEYWORD1
+ShutdownMode	KEYWORD1
+DecodeMode	KEYWORD1
+TestMode	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setShutdown	KEYWORD2
+setDecodeMode	KEYWORD2
+setDisplayIntensity	KEYWORD2
+setScanLimit	KEYWORD2
+setTestMode	KEYWORD2
+sendPackage	KEYWORD2
+createPackage   KEYWORD2
+writeRegister   KEYWORD2
+fill   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NOOP	LITERAL1
+DIGIT0	LITERAL1
+DIGIT1	LITERAL1
+DIGIT2	LITERAL1
+DIGIT3	LITERAL1
+DIGIT4	LITERAL1
+DIGIT5	LITERAL1
+DIGIT6	LITERAL1
+DIGIT7	LITERAL1
+DECODE_MODE	LITERAL1
+INTENSITY	LITERAL1
+SCAN_LIMIT	LITERAL1
+SHUTDOWN	LITERAL1
+DISPLAY_TEST	LITERAL1
+DIGIT_UPTO_0	LITERAL1
+DIGIT_UPTO_1	LITERAL1
+DIGIT_UPTO_2	LITERAL1
+DIGIT_UPTO_3	LITERAL1
+DIGIT_UPTO_4	LITERAL1
+DIGIT_UPTO_5	LITERAL1
+DIGIT_UPTO_6	LITERAL1
+DIGIT_UPTO_7	LITERAL1
+SHUTDOWN_MODE	LITERAL1
+NORMAL_MODE	LITERAL1
+NO_DECODE	LITERAL1
+DECODE_0	LITERAL1
+DECODE_0_TO_3	LITERAL1
+DECODE_0_TO_7	LITERAL1
+TEST_MODE_OFF	LITERAL1
+TEST_MODE_ON	LITERAL1
