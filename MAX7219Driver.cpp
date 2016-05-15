@@ -12,6 +12,7 @@
 #define __ARDUINO_DRIVER_MAX7219_CPP__ 1
 
 #include "MAX7219Driver.h"
+#include <Arduino.h>
 
 MAX7219Driver::MAX7219Driver(unsigned char dataPin, unsigned char clockPin,
         unsigned char loadPin) {

@@ -20,8 +20,6 @@
 #ifndef __ARDUINO_DRIVER_MAX7219_H__
 #define __ARDUINO_DRIVER_MAX7219_H__ 1
 
-#include <Arduino.h>
-
 #define MAX7219_WIDTH 8
 #define MAX7219_HEIGHT 8
 
